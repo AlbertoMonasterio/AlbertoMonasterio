@@ -47,7 +47,7 @@ Me enfoco en construir sistemas escalables, automatizar flujos de trabajo (CI/CD
 * ⚽ **[dQuiniela](https://github.com/AlbertoMonasterio/dQuiniela)**: Sistema descentralizado con lógica inmutable en Ethereum Sepolia (Solidity), implementando validaciones estrictas en Smart Contracts para la liquidación atómica de premios.
 * 🎮 **[ArrowMaze](https://github.com/a-granadillo/ArrowConMango_Front)**: Videojuego móvil en Flutter con integración continua. Configuración de flujos automatizados (CI/CD) vía GitHub Actions para pruebas y empaquetado seguro de releases.
 * 📊 **[Seguros Alta Vista](https://github.com/AlbertoMonasterio/ProyectoBI)**: Diseño de Data Warehouse multidimensional estructurado y visualización analítica en Power BI.
-* 🎯 **[SteamRecommender](https://github.com/David-Hidalgo/SteamRecommender)**: API Backend (Bun/Elysia/TypeScript) estructurada bajo Clean Architecture, integrando MongoDB Vector Search y gestionando credenciales de IA de forma segura.
+* 🎯 **[SteamRecommender]()**: API Backend (Bun/Elysia/TypeScript) estructurada bajo Clean Architecture, integrando MongoDB Vector Search y gestionando credenciales de IA de forma segura.
 ---
 
 
